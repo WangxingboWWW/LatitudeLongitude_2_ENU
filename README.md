@@ -1,4 +1,4 @@
-## 
+# WGS84 TO ECEF TO ENU
 
 ## An input file contains WGS84 coordinate
   *  Recommad form: GPGGA, timestamp, timestamp, status, satellite number, Latitude, longitude, WGS84 Ellipsoid Height
